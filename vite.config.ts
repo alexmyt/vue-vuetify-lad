@@ -38,5 +38,5 @@ export default defineConfig({
   server: {
     port: 3000,
   },
-  base: '/vue-vuetify-lad/'
+  base: process.env.NODE_ENV === "production" ? "/vue-vuetify-lad/" : "/",
 })

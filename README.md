@@ -1,4 +1,5 @@
-# default
+# Training application for VUE intensive by Lad IT Academy
+[Live version](https://alexmyt.github.io/vue-vuetify-lad/)
 
 ## Project setup
 
