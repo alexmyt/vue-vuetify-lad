@@ -78,5 +78,4 @@ defineProps<ComponentProps>();
 
 const expand = ref(false);
 const time = ref(0);
-
 </script>

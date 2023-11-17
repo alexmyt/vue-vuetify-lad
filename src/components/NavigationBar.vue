@@ -19,8 +19,8 @@ defineProps({
   title: {
     type: String,
     default: 'Vue Vuetify App',
-  }
-})
+  },
+});
 
 function onAppSettings() {
   app.settings = !app.settings;
